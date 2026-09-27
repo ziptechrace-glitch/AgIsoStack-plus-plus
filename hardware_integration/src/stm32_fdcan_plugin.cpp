@@ -1,4 +1,4 @@
-#include "stm32_fdcan_plugin.hpp"
+#include "isobus/hardware_integration/stm32_fdcan_plugin.hpp"
 
 #include <cstring>
 
